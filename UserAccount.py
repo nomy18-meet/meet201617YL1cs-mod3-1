@@ -25,7 +25,7 @@ class UserAccount :
         
 
         if password_guess==self.password:
-            print('your secret'+self.secret)
+            print('your secret '+self.secret)
         
         #Complete this method - check the input variable, password_attempt,
         #against the password for this user (the value of the instance variable, password).
